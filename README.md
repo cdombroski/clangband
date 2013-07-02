@@ -1,5 +1,7 @@
 # clangband
 
+[![Build Status](https://travis-ci.org/cdombroski/clangband.png?branch=master)](https://travis-ci.org/cdombroski/clangband)
+
 FIXME: description
 
 ## Installation
