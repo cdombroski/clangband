@@ -1,0 +1,3 @@
+[submodule "reference/angband"]
+	path = reference/angband
+	url = https://github.com/angband/angband
