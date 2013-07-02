@@ -1,4 +1,6 @@
 (ns clangband.core-test
-  (:use clojure.test
-        clangband.core))
+  (:require [midje.sweet :refer :all]
+            [clangband.core :as core]))
 
+(fact "This app uses midje for testing"
+  (+ 2 2) => 4)
